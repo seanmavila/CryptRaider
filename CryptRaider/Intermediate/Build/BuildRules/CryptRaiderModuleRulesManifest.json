@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\seana\\Game Repos\\UnrealEngine\\CryptRaider\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"C:\\Users\\seana\\Game Repos\\UnrealEngine\\CryptRaider\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"C:\\Users\\seana\\Game Repos\\UnrealEngine\\CryptRaider\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
